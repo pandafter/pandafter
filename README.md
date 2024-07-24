@@ -16,4 +16,11 @@ Passionate about initiating innovative projects and showcasing my skills through
 ---
 [![](https://visitcount.itsvg.in/api?id=pandafter&icon=0&color=9)](https://visitcount.itsvg.in)
 
+## 🔗 UI Resources:
+- [ShadCN](https://ui.shadcn.com)
+- [Magic UI](https://magicui.design)
+- [Ace Ternity](https://ui.aceternity.com)
+- [HyperUI](https://www.hyperui.dev)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
