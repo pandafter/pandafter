@@ -1,5 +1,11 @@
 # 💫 About Me:
-Passionate about initiating innovative projects and showcasing my skills through practical applications. Eager to embark on new endeavors and demonstrate my capabilities through a collection of projects that highlight my expertise and determination to create impactful solutions.
+Juan Nicolás Leyva Hoyos is a Software Engineer, Systems Architect, and Entrepreneur building high-impact digital platforms at the intersection of technology, business, and human behavior.
+
+With a background in Software Architecture (Pontificia Universidad Javeriana Cali), Juan designs scalable systems across cloud, mobile, fintech-like platforms, AI-powered services, logistics, and automation. His work focuses on creating infrastructure that enables people and companies to operate more efficiently, securely, and globally.
+
+He is the founder of multiple technology initiatives, including communication platforms, inventory verification systems, smart mobility software, and digital financial tools. His approach integrates engineering, product design, and strategic thinking to build systems that don’t just function — they scale.
+
+Parallel to his work in technology, Juan performs as a techno DJ under the name Karma, exploring the same concepts of flow, timing, and human experience that guide his engineering philosophy.
 
 
 ## 🌐 Socials:
