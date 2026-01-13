@@ -120,16 +120,3 @@ This dual perspective deeply influences how I design systems — **rhythmic, int
 
 ---
 
-## 📊 GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandafter&theme=dark&layout=compact)
-
----
-
-## ✍️ Engineering Philosophy
-
-> “Build systems that scale technically, economically, and humanly.”
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=pandafter&icon=0&color=9)
