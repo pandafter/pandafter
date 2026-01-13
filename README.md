@@ -1,32 +1,125 @@
-# 💫 About Me:
-Juan Nicolás Leyva Hoyos is a Software Engineer, Systems Architect, and Entrepreneur building high-impact digital platforms at the intersection of technology, business, and human behavior.
+# 💫 About Me
 
-With a background in Software Architecture (Pontificia Universidad Javeriana Cali), Juan designs scalable systems across cloud, mobile, fintech-like platforms, AI-powered services, logistics, and automation. His work focuses on creating infrastructure that enables people and companies to operate more efficiently, securely, and globally.
+🚀 **Software Engineer · Systems Architect · Technology Entrepreneur**
 
-He is the founder of multiple technology initiatives, including communication platforms, inventory verification systems, smart mobility software, and digital financial tools. His approach integrates engineering, product design, and strategic thinking to build systems that don’t just function — they scale.
+I design and build **scalable digital systems** at the intersection of **technology, business, and human behavior**.
 
-Parallel to his work in technology, Juan performs as a techno DJ under the name Karma, exploring the same concepts of flow, timing, and human experience that guide his engineering philosophy.
+With a formal background in **Software Architecture** (Pontificia Universidad Javeriana – Cali), I specialize in turning complex technical challenges into **resilient, secure, and high-performance platforms** capable of operating at scale.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JuanNLeyvaH/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pandafter)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandafter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+My work spans cloud-native architectures, mobile ecosystems, fintech-style infrastructures, AI-driven services, automation pipelines, and real-time communication systems. I focus on building **systems that don’t just work — they grow, adapt, and endure**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pandafter&icon=0&color=9)](https://visitcount.itsvg.in)
 
-## 🔗 UI Resources:
-- [ShadCN](https://ui.shadcn.com)
-- [Magic UI](https://magicui.design)
-- [Ace Ternity](https://ui.aceternity.com)
-- [HyperUI](https://www.hyperui.dev)
+## 🧠 What I Do (Beyond Code)
 
+- 🏗 **Architect scalable systems** designed for growth, fault tolerance, and global reach  
+- ⚙️ **Transform business requirements into technical strategy**  
+- 🔐 Design **secure, production-ready infrastructures**  
+- 🚀 Build **products from zero to market**, not just MVPs  
+- 🔄 Optimize systems for **performance, automation, and maintainability**  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I think in **systems**, not features.
+
+---
+
+## 🏢 Founder & Builder
+
+I have founded and led multiple technology initiatives, including:
+
+- 📡 **Communication platforms** (real-time & async)
+- 📦 **Inventory verification and logistics systems**
+- 🚗 **Smart mobility and operational software**
+- 💳 **Digital financial tools & wallet-like platforms**
+- 🤖 **AI-powered automation and data-driven services**
+
+My approach integrates **engineering, product design, and strategic thinking** to build solutions that scale technically *and* commercially.
+
+---
+
+## 🎧 Parallel Dimension — Music & Flow
+
+Outside engineering, I perform as a **Techno DJ under the name _Karma_**.
+
+Music and software share the same principles:
+- Timing
+- Flow
+- Structure
+- Human experience
+
+This dual perspective deeply influences how I design systems — **rhythmic, intentional, and scalable**.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JuanNLeyvaH/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pandafter)
+
+---
+
+## 💻 Technical Stack
+
+### 🧩 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
+
+---
+
+### ⚙️ Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+### 🎨 Design & Tooling
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal)
+
+---
+
+## 📊 GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandafter&theme=dark&layout=compact)
+
+---
+
+## ✍️ Engineering Philosophy
+
+> “Build systems that scale technically, economically, and humanly.”
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=pandafter&icon=0&color=9)
