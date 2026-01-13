@@ -67,6 +67,11 @@ This dual perspective deeply influences how I design systems — **rhythmic, int
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
 
 ---
 
@@ -79,12 +84,15 @@ This dual perspective deeply influences how I design systems — **rhythmic, int
 
 ---
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+
 
 ---
 
@@ -93,6 +101,8 @@ This dual perspective deeply influences how I design systems — **rhythmic, int
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 ---
 
